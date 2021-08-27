@@ -1,0 +1,12 @@
+.git
+.github
+gitignore
+.circleci
+gradle
+.DS_Store
+scripts
+bazelci
+integration
+runner
+unit
+.ci_tools
